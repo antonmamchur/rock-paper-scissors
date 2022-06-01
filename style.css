@@ -1,0 +1,11 @@
+html, body {
+    margin: 0 auto;
+}
+
+
+
+.container {
+    position: fixed;
+    top: 40%;
+    left: 50%;
+}
